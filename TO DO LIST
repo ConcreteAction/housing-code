@@ -1,0 +1,33 @@
+TO DO LIST 
+
+- Link all Pages together once complete
+- Add Manual Content (First Page)
+- MySQL backend for users data (name, email, postcode)
+	- Python Script to scan for content (Projects in date with postcode 
+		so automatic emails can be sent to the user)
+- Modifcations to Uploading Data as it may be presented Automatically 
+- Add Document input with security measures 
+- Enhance Keyword scanner
+- Add more API's that are linked to the regeneration Process
+- Increase the News API OR use Factiva however a content filter will be
+	Required. 
+- In order for a user to add content, they Must register for an account - So content can be tracked.
+- Add mailing server so people can contact 
+- Add media
+
+
+COMPLETE
+
+- MySQL database
+	- Contains every regeneration stage with the ability to store complex data for complex relationships 
+	- Queries can be made to produce any content required by the user
+	- Future development? Backend for Website?
+- Website template
+- API content filter Base - Can be used for any API
+	- Has the ability to filter single page URL & Multiple URL
+	- Any content can be shown if it exists in the JSON file
+	- Adapatation in PHP and Javascript to help future developers
+- News API that filters content based on Keywords
+	- Infrastucture is in place so adding future news will be easy
+- Uploading Content - GIF, JPG, PNG; Stored in files
+- Obvious Regeneration Stages are on each location within London.
